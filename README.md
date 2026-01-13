@@ -7,6 +7,20 @@ This project was developed as part of a course assignment.
 
 ---
 
+## Installation & Run
+
+1. Clone the repository:
+   git clone https://github.com/azracr/nexstay_website.git
+
+2. Install dependencies:
+   npm install
+
+3. Run the project:
+   npm run dev
+
+The application will run on http://localhost:5173
+
+
 ##  Technologies Used
 
 - React
