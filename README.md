@@ -17,7 +17,6 @@ This project was developed as part of the Web Programming course final project.
 ## GitHub Repository
 https://github.com/azracr/nexstay_website
 
-> If the repository is private, please add **alidaghighi** as a collaborator.
 
 ---
 
