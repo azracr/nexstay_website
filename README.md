@@ -7,34 +7,27 @@ This project was developed as part of a course assignment.
 
 ---
 
-## Installation & Run
+## GitHub Repository
 
-1. Clone the repository:
-   git clone https://github.com/azracr/nexstay_website.git
-
-2. Install dependencies:
-   npm install
-
-3. Run the project:
-   npm run dev
-
-The application will run on http://localhost:5173
-
-
-##  Technologies Used
-
-- React
-- Vite
-- React Router
-- JavaScript (ES6+)
-- CSS
+Project source code is available on GitHub:  
+https://github.com/azracr/nexstay_website
 
 ---
 
-##  Project Setup
+## Installation & Run
 
-Before running the project, make sure **Node.js (v16 or higher)** is installed.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/azracr/nexstay_website.git
+Install dependencies:
 
-### Install dependencies
-```bash
+bash
+Copy code
 npm install
+Run the project:
+
+bash
+Copy code
+npm run dev
+The application will run on:
+http://localhost:5173
